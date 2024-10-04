@@ -1,0 +1,32 @@
+* scope:
+
+    - let: declare variable with in block scope """ let x = 10 """
+    - const: allows to declare constant variable which value doesnt changed """ const PI = 3.14 """
+    - arrow function: its function with short syntax
+        """ var  = function(x,y) {
+            return x * y
+        }"""
+        """ const arrFunction = (x, y) =>  x * y """
+
+    - object destructuring
+    - array destructuring
+    - spread operator(...)
+    - for/of
+    - map objects'
+    - set objects
+    - classes
+    - promises
+    - symbol
+    - default parameters
+    - function rest parameters
+    - new global methods
+    - javascript modules
+    - string
+        -
+    - number
+        - array
+        - math
+    
+
+
+
